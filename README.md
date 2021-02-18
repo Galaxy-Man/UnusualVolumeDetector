@@ -14,6 +14,12 @@ Go to the [website](https://unusualvolume.info/)
 - Run the market_scanner.py and it will print out results into the terminal
 - You can also graph any ticker's volume in grapher.py
 
+### My working script:
+Windows 10
+Working with Python3.91
+PIP3.9
+Updated the requirements.txt file to show what works with my install
+
 ### Controlling the Script
 - Line 17 controls the amount of months of historical volume the script gets
 - Line 75 controls the amount of days before today that it will alert you
