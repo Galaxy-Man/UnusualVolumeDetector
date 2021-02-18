@@ -15,10 +15,10 @@ Go to the [website](https://unusualvolume.info/)
 - You can also graph any ticker's volume in grapher.py
 
 ### My working script:
-Windows 10
-Working with Python3.91
-PIP3.9
-Updated the requirements.txt file to show what works with my install
+Windows 10  
+Working with Python3.91  
+PIP3.9  
+Updated the requirements.txt file to show what works with my install  
 
 ### Controlling the Script
 - Line 17 controls the amount of months of historical volume the script gets
