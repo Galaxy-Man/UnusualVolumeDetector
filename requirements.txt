@@ -1,9 +1,9 @@
-mplcursors==0.3
+mplcursors==0.4
 numpy==1.20.0
 wheel==0.36.2 
-yfinance==0.1.54
-tqdm==4.48.0
-joblib==0.16.0
+yfinance==0.1.55
+tqdm==4.57.0
+joblib==1.0.1
 matplotlib==3.3.4
 Flask==1.1.2
 Flask_FlatPages==0.7.2
